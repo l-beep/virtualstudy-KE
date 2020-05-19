@@ -57,7 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Technical Mentors for the support
-* Colleaguse for the motivation
+* Colleages for the motivation
 * Our team for great work
 
 ### Contact Us
