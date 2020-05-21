@@ -1,0 +1,10 @@
+.form {
+    text-align: center;
+    flex-direction: row;
+    max-width: 65%;
+}
+.form-control {
+    border-radius: 20px;
+    background-color: skyblue;
+    color: #ff5733;
+}
