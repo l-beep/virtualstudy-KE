@@ -1,16 +1,10 @@
 
-#lesson-head{
-  width:55%; 
-  height:30%; 
-  padding:30px;
-  text-align:center;
+
+.card{
+  position:absolute;
+  margin-left:40%;
 }
 
 #kp{
 font-size:10;
-}
-
-#kpbutton{
-  position:absolute;
-  left:255px;
 }
