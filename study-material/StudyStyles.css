@@ -5,3 +5,12 @@
   padding:30px;
   text-align:center;
 }
+
+#kp{
+font-size:10;
+}
+
+#kpbutton{
+  position:absolute;
+  left:255px;
+}
