@@ -64,3 +64,10 @@ nav ul li:hoover{
   font-size: 1.2rem;
   opacity:0.7;
 }
+footer{
+  background-color: #333;
+  color:#fff;
+  text-align:center;
+  padding:1.2rem;
+  margin-top:4%;
+}
