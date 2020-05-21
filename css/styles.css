@@ -34,3 +34,23 @@ nav ul li:hoover{
   font-weight:bold;
   font-size:1.2rem;
 }
+.section{
+  width: 80%;
+  margin:auto;
+  overflow:hidden;
+  margin-top:4%;
+}
+.section h1{
+  color:#fff;
+  line-height:50px;
+}
+.section p{
+  color:grey;
+}
+.btn-1{
+  background-color: orangered;
+  padding:0.7rem 1rem;
+  color:#fff;
+  border:none;
+  border-radius:10px;
+}
