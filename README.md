@@ -42,13 +42,13 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Abduljabbar AJ**  *Landing Page*   - [AJ]  (https://github.com/AbduljabbarBXR)
-* **Lovine  Ochieng** *Site Features*  - [NAME](https://github.com/SET USER NAME)
-* **Abdirahman Abdi** *Templates*      - [NAME](https://github.com/SET USER NAME)
-* **Norah Shako**     *Learning tools* - [NAME](https://github.com/SET USER NAME)
-* **Peter Kungu**     *Footer*         - [NAME](https://github.com/SET USER NAME)
-* **Kimani Mbatia**   *Study Tools*    - [NAME](https://github.com/SET USER NAME)
-* **Suzan Akinyi**    *Sign In*        - [NAME](https://github.com/SET USER NAME)
+* **Abduljabbar AJ**  *Landing Page*   
+* **Lovine  Ochieng** *Site Features*  
+* **Abdirahman Abdi** *Templates*      
+* **Norah Shako**     *Learning tools* 
+* **Peter Kungu**     *Footer*         
+* **Kimani Mbatia**   *Study Tools*    
+* **Suzan Akinyi**    *Sign In*        
 
 ## License
 
