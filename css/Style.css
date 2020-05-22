@@ -6,6 +6,10 @@
   outline: none;
 }
 
+.content-wrapper {
+  max-width: auto;
+}
+
 ul, h1, h2, h3, h4, p, figure {
     padding: 0;
     margin: 0;

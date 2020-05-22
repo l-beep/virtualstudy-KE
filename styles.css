@@ -6,6 +6,10 @@
     background-color: lightblue;
     border: 1px solid blue;
 
+    .content-wrapper {
+      max-width: auto;
+    }
+
 }.row {
     display: flex;
     margin-top: 50px;
@@ -35,7 +39,7 @@ body{
     background-color: blue;
     height: 400px;
     background-size: auto;
-   
+
 }
 .about{
     padding: 90px;
