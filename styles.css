@@ -32,7 +32,8 @@ body{
 }
 .features{
     background-color: blue;
-    height: 900px;
+    height: 200px;
+    justify-content: space-evenly;
 }
 .about{
     padding: 90px;
