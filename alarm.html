@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Virtual Study App</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/alarm.css">
+    <link href="https://fonts.googleapis.com/css?family=EB+Garamond&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="container">
+        <h1>Class Schedule</h1>
+
+        <form class="mx-auto">
+            <div>
+                <div class="form1">
+                    <label>Course</label>
+                    <input type="text" class="form-control" id="course" placeholder="Enter" required>
+                    <label>Lesson</label>
+                    <input type="text" class="form-control" id="lesson " placeholder="Enter " required>
+                    <label>date</label>
+                    <input type="date" id="date" name="trip-start"
+                           value="2020-07-22"
+                           min="2000-01-01" max="2030-12-31">
+                    <label for="appt">choose a time for your lesson:</label>
+                    <input type="time" id="tm" name="appt"
+                            value="08:30"
+                            min="08:00" max="18:00" required>    
+                </div>
+                
+                
+            <button onclick="validateForm()" class="btn btn-outline-info btn-lg">Submit</button>
+            
+            <button type="reset" class="btn btn-outline-info btn-lg">Reset</button>
+            
+        </form>
+    </div>
+    <script src="js/alarm.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,52 @@
+body {
+    background-color:lightblue ;
+}
+.ppp {
+    color:white;
+    font-family: 'EB Garamond', serif;
+    font-size:2.3em;
+    line-height: 1.1;
+}
+h1 {
+    font-family: 'Righteous', cursive;
+    text-shadow: 1px 1px 2px white, 0 0 25px white, 0 0 5px white;
+    font-size:4.8em;
+    text-align:center;
+
+}
+.ttt {
+    color:white;
+    font-family: 'EB Garamond', serif;
+    font-size:1.8em;
+}
+.ggg {
+    color:aqua;
+    font-family: 'EB Garamond', serif;
+    font-size:1.8em;
+} 
+
+label {
+    font-size:1.2em;
+    color:black;
+}
+
+form {
+    width:30%;
+    /*border:2px solid white;*/
+    text-align:center;
+}
+a {
+    color:white;
+}
+.btn btn-outline-info btn-lg {
+    color:white;
+}
+#output {
+    font-size:1.8em;
+    border:2px solid white;
+    text-shadow: 2px 2px 4px #000000;
+}
+.form1{
+    text-align: center;
+    padding-right: 5%;
+}
